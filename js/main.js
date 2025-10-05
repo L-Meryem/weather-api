@@ -19,7 +19,7 @@ function addressToCoordinates() {
     fetch(geoUrl)
         .then(res => res.json())
         .then(data => {
-            const weatherUrl = `http://api.weatherapi.com/v1/current.json?key=${geoKey}&q=${data[0].lat},${data[0].lon}`;
+            const weatherUrl = `https://api.weatherapi.com/v1/current.json?key=${geoKey}&q=${data[0].lat},${data[0].lon}`;
             console.log(data);
             return fetch(weatherUrl);
         })
