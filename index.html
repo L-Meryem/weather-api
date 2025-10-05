@@ -16,18 +16,20 @@
 
 <body>
 	<main>
-		<div>
-			<label for="city">City</label>
-			<input type="text" id="city" placeholder="Enter a location">
-			<label for="country">Country</label>
-			<input type="text" id="country" placeholder="Enter a location">
-			<button>submit</button>
-		</div>
-		<section>
-			<h2 id="temperature">Weather</h2>
-
+		<section class="weather-component">
+			<div class="info">
+				<h2 id="temperature">°F</h2>
+				<h2 id="location"></h2>
+			</div>
+			<form>
+				<input type="text" id="city" placeholder="City" required />
+				<input type="text" id="state" placeholder="State (optional)">
+				<input type="text" id="country" placeholder="Country (optional)"/>
+				<button>Get Weather</button>
+			</form>
 		</section>
 	</main>
 	<script src="js/main.js"></script>
 </body>
+
 </html>
