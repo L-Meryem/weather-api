@@ -1,22 +1,14 @@
-# 🌦 Project: Weather API
+## Description
+This app uses an API to convert city, state, and country into latitude and longitude, then retrieves and displays the weather in Fahrenheit for those coordinates using a second API.
 
-### Goal: Enable your user to enter a city + country and return the temperature in Fahrenheit
+[Try the Live project!](https://l-meryem.github.io/weather-api/)
 
-### How to submit your code for review:
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+<a href="https://l-meryem.github.io/weather-api/" target="_blank" ><img width="466" height="413" alt="image" src="https://github.com/user-attachments/assets/f7fff043-37f7-4ebc-8669-9c271633522d" /></a>
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+### Tech used 
+
+ - `HTML`
+ - `CSS`
+ - `JavaScript`
+
