@@ -4,7 +4,8 @@ This app uses an API to convert city, state, and country into latitude and longi
 [Try the Live project!](https://l-meryem.github.io/weather-api/)
 
 
-<a href="https://l-meryem.github.io/weather-api/" target="_blank" ><img width="466" height="413" alt="image" src="https://github.com/user-attachments/assets/f7fff043-37f7-4ebc-8669-9c271633522d" /></a>
+<a href="https://l-meryem.github.io/weather-api/" target="_blank" ><img width="466" alt="weather api" src="https://github.com/user-attachments/assets/866b8036-b5d4-4c39-bc65-088380816f56" />
+</a>
 
 ### Tech used 
 
